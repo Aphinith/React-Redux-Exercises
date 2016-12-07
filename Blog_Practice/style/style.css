@@ -1,3 +1,7 @@
 .text-xs-right {
   text-align: right;
 }
+
+form a {
+  margin-left: 5px;
+}
